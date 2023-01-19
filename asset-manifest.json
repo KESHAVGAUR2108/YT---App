@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YT-App/static/css/main.df3394ef.css",
+    "main.js": "/YT-App/static/js/main.65a5460f.js",
+    "static/js/787.264cb4fb.chunk.js": "/YT-App/static/js/787.264cb4fb.chunk.js",
+    "index.html": "/YT-App/index.html",
+    "main.df3394ef.css.map": "/YT-App/static/css/main.df3394ef.css.map",
+    "main.65a5460f.js.map": "/YT-App/static/js/main.65a5460f.js.map",
+    "787.264cb4fb.chunk.js.map": "/YT-App/static/js/787.264cb4fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3394ef.css",
+    "static/js/main.65a5460f.js"
+  ]
+}
